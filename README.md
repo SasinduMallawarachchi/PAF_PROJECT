@@ -4,5 +4,5 @@ Electro Grid (EG) is the company who maintains the power grid of the country. Ou
 
 IT20189594 Rathnayaka R.K.A.R <br>
 IT20200206 Mallawarachchi S.M.A. <br>
-IT20122850 Perera S.S.A. <br>
+IT20122850 Perera S.S.A.  <br>
 IT20191788 Wijesiriwardana H.G.N.D <br>
